@@ -1,0 +1,6 @@
+
+{
+  "name": "Bếp Trưởng AI",
+  "description": "Tạo công thức nấu ăn ngon dựa trên nguyên liệu bạn có. Nhập nguyên liệu của bạn và để AI tạo ra một công thức tùy chỉnh cho bạn.",
+  "requestFramePermissions": []
+}
